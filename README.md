@@ -1,1 +1,1 @@
-# smart_contracts_demos
+# ethereum_smart_contracts_demos
